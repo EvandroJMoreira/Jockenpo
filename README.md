@@ -1,7 +1,7 @@
 <h1>JoquenPô</h1>
 
 <h3>Sobre</h3>
-<p>Game JoquenPô (Pedra, Papel ou Tesoura). Usuário joga contra a máquina e o placar vai sendo exibido. Criado utilizando HTML5, CSS3 e JS.</p>
+<p>Game JoquenPô (Pedra, Papel ou Tesoura). Usuário joga contra a máquina e o placar vai sendo exibido. A imagem de fundo é dinâmica, muda junto com a sua atualização. Criado utilizando HTML5, CSS3 e JS.</p>
 <br>
 <h3>Ferramentas Utilizadas</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html5">
